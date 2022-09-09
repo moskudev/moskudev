@@ -10,5 +10,5 @@
 </div>
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=moskudev&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=moskudev&theme=react-dark)](https://github.com/moskudev/github-readme-activity-graph)
  
