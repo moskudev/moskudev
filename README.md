@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskudev&layout=compact&show_icons=true&theme=vue" />
 </div>
 
-
 <!-- ACTIVITY GRAPH TRACKER -->
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=moskudev&theme=react-dark)](https://github.com/ShahjalalShohag/github-readme-activity-graph)
  
