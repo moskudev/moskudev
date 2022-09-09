@@ -13,7 +13,4 @@
 </div>
 
 <!-- ACTIVITY GRAPH TRACKER -->
-<p align="center">
-![activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moskudev&theme=github_dark)
-</p>
- 
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=moskudev&theme=react-dark)](https://github.com/moskudev/github-readme-activity-graph)
