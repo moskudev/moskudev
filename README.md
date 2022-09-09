@@ -8,7 +8,7 @@
 ## 📈 GitHub Stats
 <div>
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=moskudev&show_icons=true&count_private=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskudev&theme=dark&layout=compact&align=right&width=40%" />
+  
 </div>
 
 <!-- ACTIVITY GRAPH TRACKER -->
