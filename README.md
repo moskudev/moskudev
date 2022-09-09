@@ -7,7 +7,7 @@
 
 ## 📈 GitHub Stats
 <div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=moskudev&show_icons=true&theme=vue" />
+  <img height="165" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moskudev&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moskudev&theme=dark&layout=compact&align=right&width=40%" />
 </div>
 
