@@ -13,5 +13,5 @@
 </div>
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moskudev&theme=github_dark)
+[![activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moskudev&theme=github_dark)]
  
