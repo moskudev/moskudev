@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
+  <!-- ACTIVITY GRAPH TRACKER -->
+[![](https://visitcount.itsvg.in/api?id=@moskudev&icon=2&color=1)](https://visitcount.itsvg.in)
 </p>
 
 ## 🛠️ Tools & Languages
@@ -16,7 +18,6 @@
   
 </div>
 
-<!-- ACTIVITY GRAPH TRACKER -->
-[![](https://visitcount.itsvg.in/api?id=@moskudev&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
 
