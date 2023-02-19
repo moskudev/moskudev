@@ -17,8 +17,6 @@
 </div>
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=moskudev&theme=react-dark)](https://github.com/moskudev/github-readme-activity-graph)
+[![](https://visitcount.itsvg.in/api?id=@moskudev&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <i>If you like one of my projects, please consider leaving a star to support me. Thank you.</i>
-</p>
+
